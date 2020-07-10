@@ -1,6 +1,6 @@
 ## React App in Ethereum Platform
 
-### In the project directory, First you have to clone it to your local system:
+### In the project directory, first you have to clone it to your local system.
 
 ### Now you have to install the dependencies:
   ```
