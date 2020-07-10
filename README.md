@@ -2,8 +2,6 @@
 
 ### In the project directory, First you have to clone it to your local system:
 
- `git clone https://github.com/danpredator/eth-election.git`
-
 ### Now you have to install the dependencies:
   ```
    cd eth-election
